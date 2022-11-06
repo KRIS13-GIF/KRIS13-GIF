@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently learning <strong>Full-Stack Web Development</strong>
 - 🌱 I’m currently learning <strong>Algorithms and Data Structures</strong>
-- 🔍 I’m looking to collaborate on <strong>Back-End project</strong>
-- 💬 Ask me about <strong> Java</strong>
+- 🔍 I’m looking to collaborate on <strong>Back-End & Front-End projects</strong>
+- 💬 Ask me about <strong> JavaScript</strong>
 
 ### Tools I work upon : 🛠
 
