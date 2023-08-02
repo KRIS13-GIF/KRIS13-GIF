@@ -8,6 +8,7 @@
 - 🔍 I’m looking to collaborate on <strong>Back-End & Front-End projects</strong>
 - 💬 Ask me about <strong> JavaScript</strong>
 - 💬 Ask me about <strong> Python</strong>
+- 💬 Ask me about <strong> Java</strong>
 
 ### Tools I work upon : 🛠
 
