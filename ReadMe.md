@@ -9,6 +9,7 @@
 - 💬 Ask me about <strong> JavaScript</strong>
 - 💬 Ask me about <strong> Python</strong>
 - 💬 Ask me about <strong> Java and SpringBoot</strong>
+- 💬 Ask me about <strong> Go</strong>
 
 ### Tools I work upon : 🛠
 
